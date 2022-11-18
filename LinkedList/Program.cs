@@ -1,4 +1,4 @@
-using System;
+using System; //LinkedListNode<T>
 using System.Collections.Generic;
 
 public class GenericCollection
